@@ -1,0 +1,20 @@
+backend-npm run develop
+frontend-npm run dev
+
+yt-video link -https://youtu.be/a_GYyOijWBc
+
+https://www.youtube.com/@jsdevhindi/videos
+
+github-https://github.com/ShariqAnsari88/shoe-store-frontend
+
+backend + admin - http://localhost:1337/
+
+frontend - http://localhost:3000/
+
+stripe -https://dashboard.stripe.com/
+
+backend + db (postgress SQL)-https://dashboard.render.com/ (hosting)
+
+image hosting cloud -https://console.cloudinary.com/
+
+dummy url-https://shoe-store-frontend.vercel.app/
